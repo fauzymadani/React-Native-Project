@@ -1,0 +1,20 @@
+===========================================================
+# My first react native project with expo
+this project is proudly powered by expo. tested in GNU/Linux.
+
+============================================================
+# Building
+to build this project with expo, run:
+
+        
+        git clone https://github.com/fauzymadani/React-Native-Project.git
+
+        cd React-Native-Project
+
+        npm insall
+
+        npx expo start --web # to run this with web view
+
+# requirements
+- npm and nodejs 20 >
+- git
